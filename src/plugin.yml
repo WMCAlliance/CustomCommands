@@ -1,0 +1,14 @@
+name: CustomCommands
+version: 2.0
+author: PenguinT
+main: PenguinT.CustomCommands
+api-version: 1.13
+
+commands:
+  alias:
+    description: Define a new command alias.
+    usage: /alias {command} as {alias}
+
+  unalias:
+    description: Delete an existing command alias.
+    usage: /unalias {alias}
