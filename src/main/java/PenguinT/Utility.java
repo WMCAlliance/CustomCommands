@@ -1,4 +1,4 @@
-package PenguinT;
+package main.java.PenguinT;
 
 public class Utility
 {

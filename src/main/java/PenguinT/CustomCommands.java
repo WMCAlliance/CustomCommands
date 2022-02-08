@@ -1,4 +1,4 @@
-package PenguinT;
+package main.java.PenguinT;
 
 import org.bukkit.Server;
 import org.bukkit.command.Command;
